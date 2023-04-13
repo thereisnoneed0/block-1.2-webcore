@@ -1,2 +1,2 @@
-# block-1.2-webcore
-block-1.2-webcore KATA
+# block-1.3-webcore
+block-1.3-webcore KATA
